@@ -1,0 +1,29 @@
+.titledata {
+  font-size: 30px;
+  text-align: center;
+}
+
+.pdata {
+  font-size: 18px;
+  justify-content: center;
+  margin: 2rem;
+  word-spacing: 4px;
+}
+
+.p {
+  margin-bottom: 1rem;
+}
+
+@media screen and (width >= 900px) {
+  .titledata {
+    font-size: 30px;
+    text-align: center;
+  }
+
+  .pdata {
+    font-size: 22px;
+    justify-content: center;
+    margin: 2rem 10rem 2rem 10rem;
+    word-spacing: 4px;
+  }
+}

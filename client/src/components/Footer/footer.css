@@ -1,0 +1,18 @@
+.footer {
+  background-color: rgb(180, 176, 185);
+  padding: 0.3rem;
+}
+
+.ulfooter {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.footernav {
+  display: flex;
+  font-size: 15px;
+}
+
+.a {
+  text-decoration-line: blink;
+}
