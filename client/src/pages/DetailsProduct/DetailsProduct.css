@@ -1,0 +1,45 @@
+.mangapage {
+  margin: 1rem;
+  text-align-last: center;
+}
+
+.mangadetails {
+  margin: 1rem;
+}
+
+.imagemangadetails {
+  margin-bottom: 1rem;
+  width: 300px;
+}
+
+.namemangadetails {
+  font-size: 20px;
+}
+
+.descriptionmangadetails {
+  justify-content: center;
+}
+
+@media screen and (width >= 900px) {
+  .mangapage {
+    margin: 1rem 10rem 0rem 10rem;
+  }
+
+  .mangadetails {
+    margin: 1rem;
+  }
+
+  .imagemangadetails {
+    margin-bottom: 1rem;
+    width: 300px;
+  }
+
+  .namemangadetails {
+    font-size: 20px;
+    margin-left: 6rem;
+  }
+
+  .descriptionmangadetails {
+    justify-content: center;
+  }
+}

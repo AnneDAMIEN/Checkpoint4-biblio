@@ -2,14 +2,16 @@ const express = require("express");
 
 const router = express.Router();
 
-/* ************************************************************************* */
-// Import And Use Routers Here
-/* ************************************************************************* */
+const autorsRouter = require("./autor/router");
+const booksRouter = require("./book/router");
+const libraryRouter = require("./library/router");
+const roleRouter = require("./role/router");
+const userRouter = require("./user/router");
 
-const itemsRouter = require("./items/router");
-
-router.use("/items", itemsRouter);
-
-/* ************************************************************************* */
+router.use("/autors", autorsRouter);
+router.use("/books", booksRouter);
+router.use("/libraries", libraryRouter);
+router.use("/roles", roleRouter);
+router.use("/users", userRouter);
 
 module.exports = router;

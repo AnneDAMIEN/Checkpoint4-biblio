@@ -1,0 +1,131 @@
+
+[
+    {
+      "image": "https://www.glenat.com/sites/default/files/images/livres/couv/9782723488525-T.jpg",
+      "name": "One Piece T1",
+      "description": "Le premier tome de One Piece introduit le personnage principal, Monkey D. Luffy, un jeune garçon qui rêve de devenir le Roi des Pirates en trouvant le légendaire trésor appelé One Piece. L'histoire commence par un flashback montrant Luffy enfant, vivant dans un village où il rencontre Shanks le Roux, un pirate qui devient son modèle. Un jour, Luffy mange par accident un Fruit du Démon, le Gomu Gomu no Mi, qui le rend capable d'étirer son corps comme du caoutchouc mais l'empêche de nager.",
+      "autor_id": "1",
+      "user_id": "2",
+      "library_id" : "1"
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/61of+KGNJIL._SY445_SX342_.jpg",
+        "name": "One Piece T2",
+        "description": "Le premier tome de One Piece introduit le personnage principal, Monkey D. Luffy, un jeune garçon qui rêve de devenir le Roi des Pirates en trouvant le légendaire trésor appelé One Piece. L'histoire commence par un flashback montrant Luffy enfant, vivant dans un village où il rencontre Shanks le Roux, un pirate qui devient son modèle. Un jour, Luffy mange par accident un Fruit du Démon, le Gomu Gomu no Mi, qui le rend capable d'étirer son corps comme du caoutchouc mais l'empêche de nager.",
+        "autor_id": "1",
+        "user_id": "2",
+        "library_id" : "1"
+      },
+      {
+        "image": "https://m.media-amazon.com/images/I/51s06rGuk-L._SY445_SX342_.jpg",
+        "name": "One Piece T3",
+        "description": "Dans le Tome 3, Luffy, Zoro et Nami arrivent sur une nouvelle île où ils rencontrent Usopp, un jeune menteur et capitaine autoproclamé de son propre équipage de pirates. Usopp passe son temps à raconter des histoires grandioses et à effrayer les habitants du village avec de fausses alertes de pirates. Luffy découvre que le village est menacé par Kuro, un ancien capitaine pirate déguisé en majordome nommé Klahadore, qui prévoit de tuer la riche héritière Kaya pour s'emparer de sa fortune.",
+        "autor_id": "1",
+        "user_id": "2",
+        "library_id" : "1"
+      },
+      {
+        "image": "https://m.media-amazon.com/images/I/913wc4EdSlL._SY466_.jpg",
+        "name": "One Piece T4",
+        "description": "Dans le Tome 4, Luffy et son équipage continuent leur aventure et arrivent au Baratie, un restaurant flottant dirigé par Zeff aux Pieds Rouges. Là, ils rencontrent Sanji, un chef talentueux et combattant hors pair. Pendant leur séjour, le restaurant est attaqué par Don Krieg, un pirate redoutable, et son équipage, qui cherchent à s'emparer du Baratie pour survivre après une défaite dans la Grand Line",
+        "autor_id": "1",
+        "user_id": "2",
+        "library_id" : "1"
+      },
+      {
+        "image": "https://m.media-amazon.com/images/I/61xf6EHnTIL._SY445_SX342_.jpg",
+        "name": "One Piece T5",
+        "description": "Dans le Tome 5, Luffy et son équipage se dirigent vers le village de Coco, la ville natale de Nami. Ils découvrent que Nami les a trahis pour rendre l'argent volé au terrible Arlong, un homme-poisson qui terrorise la région. Nami travaille pour Arlong dans l'espoir de racheter son village.",
+        "autor_id": "1",
+        "user_id": "2",
+        "library_id" : "1"
+      },
+      {
+        "image": "https://m.media-amazon.com/images/I/51xMcx1xe0L._SY445_SX342_.jpg",
+        "name": "One Piece T6",
+        "description": "Dans le Tome 6, la bataille entre l'équipage de Luffy et Arlong s'intensifie. Luffy, Zoro, Sanji et Usopp se battent contre les hommes-poissons d'Arlong pour libérer Nami et son village. Les combats sont féroces, mais l'équipage de Luffy parvient à prendre le dessus grâce à leur détermination et à leurs compétences.",
+        "autor_id": "1",
+        "user_id": "2",
+        "library_id" : "1"
+      },
+      {
+        "image": "https://m.media-amazon.com/images/I/51fafCcC8BL._SY445_SX342_.jpg",
+        "name": "One Piece T7",
+        "description": "Dans le Tome 7, l'équipage de Luffy quitte le village de Coco après leur victoire sur Arlong et met le cap sur la Grand Line. Avant de partir, ils sont poursuivis par une marine corrompue menée par le capitaine Nezumi, qui cherche à s'emparer de la prime sur la tête de Luffy.",
+        "autor_id": "1",
+        "user_id": "2",
+        "library_id" : "1"
+      },
+      {
+        "image": "https://m.media-amazon.com/images/I/51LBGOEu-4L._SY445_SX342_.jpg",
+        "name": "Dragon Ball Z T1",
+        "description": "Le Tome 1 de Dragon Ball Z commence avec l'arrivée de Raditz, un mystérieux guerrier extraterrestre, sur Terre. Il révèle à Goku qu'il est son frère aîné et qu'ils sont tous deux des Saiyans, une race de guerriers puissants. Raditz enlève Gohan, le fils de Goku, pour forcer Goku à rejoindre les Saiyans dans leur quête de conquête.",
+        "autor_id": "2",
+        "user_id": "2",
+        "library_id" : "1"
+      },
+      {
+        "image": "https://m.media-amazon.com/images/I/31iMkBNI+KL.jpg",
+        "name": "Dragon Ball Z T2",
+        "description": "Dans le Tome 2 de Dragon Ball Z, Goku continue son voyage dans l'au-delà pour s'entraîner avec Maître Kaio afin de se préparer à l'arrivée des Saiyans. Pendant ce temps, sur Terre, les amis de Goku se préparent également à la menace imminente. Piccolo commence à entraîner Gohan, qui révèle un potentiel énorme malgré son jeune âge.",
+        "autor_id": "2",
+        "user_id": "2",
+        "library_id" : "1"
+      },
+      {
+        "image": "https://m.media-amazon.com/images/I/71SKdIc3I2L._SY466_.jpg",
+        "name": "FullMetal Alchemist T1",
+        "description": "Les frères Edward et Alphonse Elric cherchent désespérément à retrouver leurs corps perdus après une expérience alchimique qui a mal tourné. Ils se lancent dans un voyage périlleux à travers un monde où l'alchimie règne, tout en affrontant des ennemis dangereux et en découvrant les secrets de la pierre philosophale.",
+        "autor_id": "3",
+        "user_id": "2",
+        "library_id" : "1"
+      },
+      {
+        "image": "https://m.media-amazon.com/images/I/61OQ4hiz3yL._SY466_.jpg",
+        "name": "FullMetal Alchemist T2",
+        "description": "Edward et Alphonse poursuivent leur quête pour retrouver leurs corps, confrontés à des alchimistes maléfiques et à des intrigues politiques complexes. Ils découvrent également des informations cruciales sur les origines de la pierre philosophale et sur les dangers qui les entourent.",
+        "autor_id": "3",
+        "user_id": "2",
+        "library_id" : "1"
+      },
+      {
+        "image": "https://www.planetebd.com/dynamicImages/album/cover/large/42/18/album-cover-large-42187.jpg",
+        "name": "FullMetal Alchemist T3",
+        "description": "Les frères Elric affrontent de nouveaux défis alors qu'ils explorent les mystères de l'alchimie et les conséquences de leurs actions passées. Leurs aventures les mènent à des révélations surprenantes sur la nature de la magie alchimique et sur les forces obscures qui menacent leur monde.",
+        "autor_id": "3",
+        "user_id": "2",
+        "library_id" : "1"
+      },
+      {
+        "image": "https://bdi.dlpdomain.com/album/9782871294146/couv/M400x500/naruto-t1.jpg",
+        "name": "Naruto T1",
+        "description": "Naruto Uzumaki, un jeune ninja bruyant et maladroit, aspire à devenir le plus grand ninja de son village malgré le rejet des autres. Avec l'aide de ses amis et de son mentor, Naruto entreprend un voyage pour se faire reconnaître tout en affrontant des ennemis redoutables et en découvrant ses propres pouvoirs.",
+        "autor_id": "4",
+        "user_id": "2",
+        "library_id" : "1"
+      },
+      {
+        "image": "https://bdi.dlpdomain.com/album/9782871294177/couv/M400x500/naruto-t2.jpg",
+        "name": "Naruto T2",
+        "description": "Naruto continue de s'entraîner avec acharnement pour atteindre son rêve de devenir Hokage, le chef de son village. Il affronte de nouveaux adversaires et commence à maîtriser le pouvoir du chakra, tout en développant des relations plus profondes avec ses camarades ninjas et en découvrant les secrets de son passé.",
+        "autor_id": "4",
+        "user_id": "2",
+        "library_id" : "1"
+      },
+      {
+        "image": "https://bdi.dlpdomain.com/album/9782871294276-couv-M480x676.jpg",
+        "name": "Naruto T3",
+        "description": "Les compétences de Naruto continuent de croître alors qu'il participe à des missions ninja dangereuses et qu'il se rapproche de ses amis et de ses rivaux. Il découvre également les sombres complots qui menacent la paix de son village, tout en cherchant à prouver sa valeur en tant que ninja prometteur.",
+        "autor_id": "4",
+        "user_id": "2",
+        "library_id" : "1"
+      },
+      {
+        "image": "https://bdi.dlpdomain.com/album/9782871294412/couv/M400x500/naruto-t4.jpg",
+        "name": "Naruto T4",
+        "description": "Dans le quatrième tome, Naruto poursuit son entraînement intensif pour devenir un ninja respecté. Il affronte de nouveaux ennemis redoutables et se retrouve confronté à des choix difficiles qui mettent à l'épreuve sa détermination et son courage. Pendant ce temps, il découvre également des secrets surprenants sur ses origines et sur le monde des ninjas, ce qui le pousse à devenir encore plus fort pour protéger ceux qui lui sont chers.",
+        "autor_id": "4",
+        "user_id": "2",
+        "library_id" : "1"
+      }
+  ]

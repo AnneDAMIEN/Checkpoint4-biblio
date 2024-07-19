@@ -1,0 +1,46 @@
+.navbar {
+  display: flex;
+  text-align: center;
+  background-color: rgb(180, 176, 185);
+  padding: 0.5rem;
+}
+
+.ulnav {
+  display: flex;
+}
+
+.logo {
+  height: 60px;
+  margin-left: 0.8rem;
+  margin-right: 2.5rem;
+  align-content: center;
+}
+
+.navlink {
+  display: flex;
+  font-size: 15px;
+  margin-right: 1rem;
+  text-decoration: none;
+}
+
+.titlenav {
+  font-size: 30px;
+  text-align: center;
+}
+
+.pabout {
+  font-size: 18px;
+  justify-content: center;
+  margin: 2rem;
+  word-spacing: 4px;
+}
+
+@media screen and (width >= 900px) {
+  .logonav {
+    font-size: 18px;
+    font-weight: 300;
+    margin-left: 0.8rem;
+    margin-right: 55rem;
+    align-content: center;
+  }
+}

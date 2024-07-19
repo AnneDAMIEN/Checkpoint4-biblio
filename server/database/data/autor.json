@@ -1,0 +1,36 @@
+
+[
+    {
+      "firstname": "Eichiro",
+      "lastname": "Oda"
+    },
+  
+    {
+        "firstname": "Akira",
+        "lastname": "Toriyama"
+      },
+
+    {
+        "firstname": "Hiromu",
+        "lastname": "Arakawa"
+      },
+
+    {
+        "firstname": "Masashi ",
+        "lastname": "Kishimoto"
+      },
+
+    {
+        "firstname": "Yoshihiro",
+        "lastname": "Togashi"
+      },
+
+    {
+        "firstname": "Suu",
+        "lastname": "Morishita"
+      },
+      {
+        "firstname": "Kyousuke",
+        "lastname": "Motomi"
+      }
+  ]

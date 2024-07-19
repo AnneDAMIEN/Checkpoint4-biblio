@@ -1,0 +1,25 @@
+.titleaboutus {
+  font-size: 30px;
+  text-align: center;
+}
+
+.pabout {
+  font-size: 18px;
+  justify-content: center;
+  margin: 2rem;
+  word-spacing: 4px;
+}
+
+@media screen and (width >= 900px) {
+  .titleaboutus {
+    font-size: 30px;
+    text-align: center;
+  }
+
+  .pabout {
+    font-size: 22px;
+    justify-content: center;
+    margin: 2rem 10rem 2rem 10rem;
+    word-spacing: 4px;
+  }
+}
